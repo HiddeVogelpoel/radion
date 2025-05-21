@@ -32,6 +32,8 @@ $language-colors: (
   "sql": (#ffcc00, "SQL"),
   "bash": (#4eaa25, "Bash"),
   "zig": (#f7a41d, "Zig"),
+  "c": (#3572A5, "C"),
+  "cpp": (#3178c6, "C++"),
 );
 
 @function get-text-color($color) {
